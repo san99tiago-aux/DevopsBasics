@@ -7,9 +7,9 @@
   <artifactId>maven-project</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>Maven Project</name>
+  <name>General Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
-  <url>http://www.example.com</url>
+  <url></url>
 
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
